@@ -31,4 +31,4 @@ const mergeSort = (arr1, arr2) => {
     return res;
 }
 const s = mergeSort([1, 3, 5], [2, 4, 6]);
-console.log(s);
+console.log(s);//[1,2,3,4,5,6]

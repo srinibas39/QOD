@@ -9,7 +9,7 @@ const findMin = (...args) => {
     return min;
 }
 
-let s = findMin(3, 5);//3
-let p = findMin(3, 5, 9, 1);//1
-console.log(s);
-console.log(p);
+let s = findMin(3, 5);
+let p = findMin(3, 5, 9, 1);
+console.log(s);//3
+console.log(p);//1
