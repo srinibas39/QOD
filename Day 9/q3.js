@@ -13,6 +13,6 @@ const countChar = (str) => {
     }
     return maxChar;
 }
-
+                                                                                                             
 let c = countChar("abbbc");
 console.log(c);
