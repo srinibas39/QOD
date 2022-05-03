@@ -29,6 +29,5 @@ const nonRepeatingCharacter = (str) => {
 
 }
 
-
 let s = nonRepeatingCharacter("nneeooggccaammpp");
 console.log(s);
